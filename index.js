@@ -1,6 +1,11 @@
 'use strict';
 
-var hashKey = '__EV_STORE_KEY@6';
+var OneVersionConstraint = require('individual/one-version');
+
+var MY_VERSION = '6';
+OneVersionConstraint('ev-store', MY_VERSION);
+
+var hashKey = '__EV_STORE_KEY@' + MY_VERSION;
 
 module.exports = EvStore;
 
