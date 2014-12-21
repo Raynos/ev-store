@@ -1,6 +1,6 @@
 {
   "name": "ev-store",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Stores event listeners and event handles on a DOM object",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
