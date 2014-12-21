@@ -1,6 +1,6 @@
 {
   "name": "ev-store",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Element#dataset abstraction",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
