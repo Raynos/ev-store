@@ -1,6 +1,6 @@
 'use strict';
 
-var hashKey = '__EV_STORE_KEY@4';
+var hashKey = '__EV_STORE_KEY@6';
 
 module.exports = EvStore;
 
