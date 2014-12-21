@@ -2,7 +2,7 @@
 
 var OneVersionConstraint = require('individual/one-version');
 
-var MY_VERSION = '6';
+var MY_VERSION = '7';
 OneVersionConstraint('ev-store', MY_VERSION);
 
 var hashKey = '__EV_STORE_KEY@' + MY_VERSION;
