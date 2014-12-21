@@ -1,7 +1,7 @@
 {
   "name": "ev-store",
   "version": "5.0.0",
-  "description": "Element#dataset abstraction",
+  "description": "Stores event listeners and event handles on a DOM object",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
   "repository": "git://github.com/Raynos/ev-store.git",
@@ -16,10 +16,7 @@
     "url": "https://github.com/Raynos/ev-store/issues",
     "email": "raynos2@gmail.com"
   },
-  "dependencies": {
-    "individual": "^2.0.0",
-    "weakmap-shim": "~1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "element": "~0.1.4",
     "global": "^4.3.0",
